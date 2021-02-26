@@ -1,0 +1,28 @@
+.menu{
+    float:left;
+    padding-right:5px;
+    background-color: crimson;
+    color:white;
+    margin-right: 10px;
+}
+
+.list-menu{
+    margin:10px;
+    padding-bottom:10px;
+}
+
+footer{
+    background-color: brown;
+    color:bisque;
+}
+
+.logo{
+    text-align: center;
+}
+
+.icon{
+    background-color: chartreuse;
+    padding: 15px;
+
+}
+
