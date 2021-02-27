@@ -1,5 +1,6 @@
 .menu{
     float:left;
+<<<<<<< HEAD
     padding-left: 60px;
     color:black;
     font-size: 20px;
@@ -9,6 +10,12 @@
 .contact{
     float:right;
     font-size: 20px;
+=======
+    padding-right:5px;
+    background-color: crimson;
+    color:white;
+    margin-right: 10px;
+>>>>>>> f1f79b28f3a82bca4070bc430152a2fdee9d8a5e
 }
 
 .list-menu{
@@ -23,6 +30,7 @@ footer{
 
 .logo{
     text-align: center;
+<<<<<<< HEAD
     margin-top:23px;
     
     
@@ -34,5 +42,13 @@ footer{
 
 
 
+=======
+}
+
+.icon{
+    background-color: chartreuse;
+    padding: 15px;
+
+>>>>>>> f1f79b28f3a82bca4070bc430152a2fdee9d8a5e
 }
 
