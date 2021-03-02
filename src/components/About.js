@@ -3,7 +3,7 @@ import img from "../components/people.jpg"
 const About = () => {
     return(
     <section>
-            <p class="text-black-600 text-center text-2xl font-bold mt-8">About</p>
+            <p class="text-black-600 text-center text-2xl font-bold mt-8" id="about">About</p>
             <div class="md:container md:mx-auto grid grid-rows-1 grid-flow-col mt-8">
   <div class="ml-8 "><img src={img} class="rounded-lg" alt="gambarku"/></div>
   <div class="ml-8 mr-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
