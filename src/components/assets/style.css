@@ -2,8 +2,7 @@
     float:left;
     padding-right: 30px;
     color:black;
-    font-size: 20px;
-    
+    font-size: 20px;    
 }
 
 .contact{
@@ -28,7 +27,8 @@
 
 footer{
     background-color: brown;
-    color:bisque;
+    color:white;
+    font-family: fantasy;
 }
 
 .logo{
